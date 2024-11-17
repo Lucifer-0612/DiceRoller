@@ -1,0 +1,35 @@
+body
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    text-align: center;
+    background-color: bisque;
+}
+
+#Container{
+    background-color: hsl(271, 73%, 83%);
+    max-width: 800px;
+    margin:auto;
+    box-shadow: 5px 5px 20px black;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    
+}
+#rollbtn{
+    font-size: 2rem;
+    color: hsl(344, 71%, 44%);
+    background-color: goldenrod;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#rollbtn:hover
+{
+    background-color:  rgb(242, 196, 81);
+}
+
+#inputbox
+{
+    font-size: 2rem;
+    text-align: center;
+}
